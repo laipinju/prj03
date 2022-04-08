@@ -1,0 +1,19 @@
+h1{
+    background-color: chartreuse;  
+}
+
+/* .header-color{
+    background-color: chartreuse;
+} */
+
+.header-color1{
+    background-color: brown;
+}
+
+.nav{
+    display: flex ;
+}
+.nav-list{
+    list-style: none; 
+    margin-right: 10px;
+}
